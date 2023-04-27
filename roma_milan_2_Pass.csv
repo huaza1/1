@@ -1,0 +1,469 @@
+Id;Player;Team;Timestamp;Pass Start;Pass End
+230703734;P. Cutrone;Milan;2.67;0;0
+230703735;L. Biglia;Milan;5.04;0;0
+230703736;D. Calabria;Milan;7.59;0;0
+230703737;L. Bonucci;Milan;11.3;0;0
+230703738;A. Romagnoli;Milan;19.72;0;0
+230703739;L. Biglia;Milan;20.6;0;0
+230703757;Bruno Peres;Roma;22.43;0;0
+230703760;K. Strootman;Roma;23.37;0;0
+230703740;G. Donnarumma;Milan;29.22;0;0
+230703741;A. Romagnoli;Milan;31.38;0;0
+230703742;L. Biglia;Milan;32.5;0;0
+230703746;A. Romagnoli;Milan;54.09;0;0
+230703747;L. Bonucci;Milan;60.82;0;0
+230703769;F. Fazio;Roma;83.68;0;0
+230703771;A. Kolarov;Roma;89.21;0;0
+230703772;F. Fazio;Roma;91.4;0;0
+230703773;K. Manolas;Roma;95.23;0;0
+230703774;Bruno Peres;Roma;97.21;0;0
+230703775;K. Manolas;Roma;102.15;0;0
+230703777;Alisson;Roma;104.52;0;0
+230703778;L. Pellegrini;Roma;108.68;0;0
+230703753;R. Rodr\u00edguez;Milan;119.02;0;0
+230703754;A. Romagnoli;Milan;126.7;0;0
+230703755;R. Rodr\u00edguez;Milan;130.75;0;0
+230703756;F. Kessi\u00e9;Milan;133.28;0;0
+230703758;P. Cutrone;Milan;135.15;0;0
+230703761;Suso;Milan;138.64;0;0
+230703795;K. Strootman;Roma;214.9;0;0
+230703797;A. Kolarov;Roma;220.22;0;0
+230703798;F. Fazio;Roma;225.13;0;0
+230703799;K. Manolas;Roma;228.88;0;0
+230703800;Bruno Peres;Roma;230.08;0;0
+230703802;C. \u00dcnder;Roma;233.47;0;0
+230703783;P. Cutrone;Milan;236.59;0;0
+230703806;C. \u00dcnder;Roma;239.21;0;0
+230703809;F. Fazio;Roma;244.12;0;0
+230703811;A. Kolarov;Roma;250.76;0;0
+230703784;L. Biglia;Milan;251.85;0;0
+230703813;P. Schick;Roma;259.39;0;0
+230703814;A. Kolarov;Roma;262.09;0;0
+230703815;F. Fazio;Roma;264.54;0;0
+230703816;A. Kolarov;Roma;267.15;0;0
+230703817;F. Fazio;Roma;270.62;0;0
+230703818;Alisson;Roma;275.08;0;0
+230703819;K. Manolas;Roma;278.53;0;0
+230703820;Alisson;Roma;286.18;0;0
+230703791;L. Biglia;Milan;293.3;0;0
+230703824;C. \u00dcnder;Roma;295.41;0;0
+230703827;P. Schick;Roma;298.59;0;0
+230703832;A. Kolarov;Roma;303.78;0;0
+230703793;L. Biglia;Milan;306.88;0;0
+230703794;Suso;Milan;308.58;0;0
+230703837;K. Manolas;Roma;313.88;0;0
+230703838;Alisson;Roma;317.85;0;0
+230703840;K. Strootman;Roma;322.4;0;0
+230703843;D. Perotti;Roma;329.5;0;0
+230703831;A. Romagnoli;Milan;373.59;0;0
+230703834;H. \u00c7alhano\u011flu;Milan;378.14;0;0
+230703861;L. Pellegrini;Roma;387.29;0;0
+230703847;D. Calabria;Milan;390.93;0;0
+230703848;L. Bonucci;Milan;397.24;0;0
+230703849;G. Donnarumma;Milan;401.09;0;0
+230703850;R. Rodr\u00edguez;Milan;406.38;0;0
+230703851;L. Biglia;Milan;409.34;0;0
+230703854;L. Bonucci;Milan;412.65;0;0
+230703866;K. Strootman;Roma;427.72;0;0
+230703867;D. Perotti;Roma;429.34;0;0
+230703868;A. Kolarov;Roma;430.52;0;0
+230703869;F. Fazio;Roma;435.44;0;0
+230703870;L. Biglia;Milan;468.47;0;0
+230703885;C. \u00dcnder;Roma;472.8;0;0
+230703875;H. \u00c7alhano\u011flu;Milan;474.05;0;0
+230703878;Suso;Milan;479.22;0;0
+230703879;G. Bonaventura;Milan;482.59;0;0
+230703905;F. Fazio;Roma;555.57;0;0
+230703909;D. Perotti;Roma;558.41;0;0
+230703894;D. Calabria;Milan;560.48;0;0
+230703895;L. Biglia;Milan;561.58;0;0
+230703896;Suso;Milan;562.02;0;0
+230703897;D. Calabria;Milan;563.15;0;0
+230703911;L. Pellegrini;Roma;566.4;0;0
+230703913;K. Manolas;Roma;568.74;0;0
+230703914;Bruno Peres;Roma;572.98;0;0
+230703901;G. Donnarumma;Milan;594.33;0;0
+230703917;F. Fazio;Roma;598.39;0;0
+230703903;L. Biglia;Milan;600.01;0;0
+230703921;L. Pellegrini;Roma;603.41;0;0
+230703907;G. Bonaventura;Milan;606.28;0;0
+230703923;R. Nainggolan;Roma;608.78;0;0
+230703924;L. Pellegrini;Roma;609.95;0;0
+230703925;K. Strootman;Roma;611.81;0;0
+230703927;A. Kolarov;Roma;614.3;0;0
+230703928;K. Strootman;Roma;615.34;0;0
+230703931;R. Nainggolan;Roma;616.73;0;0
+230703933;C. \u00dcnder;Roma;618.68;0;0
+230703939;D. Perotti;Roma;626.82;0;0
+230703941;K. Manolas;Roma;631.09;0;0
+230703945;A. Kolarov;Roma;639.27;0;0
+230703953;F. Fazio;Roma;655.23;0;0
+230703961;F. Fazio;Roma;681.24;0;0
+230703930;D. Calabria;Milan;684.12;0;0
+230703935;Suso;Milan;691.75;0;0
+230703948;G. Bonaventura;Milan;728.24;0;0
+230703949;G. Donnarumma;Milan;730.44;0;0
+230703952;L. Biglia;Milan;736.12;0;0
+230703954;F. Kessi\u00e9;Milan;739.32;0;0
+230703956;D. Calabria;Milan;741.37;0;0
+230703957;L. Biglia;Milan;744.49;0;0
+230703958;Suso;Milan;746.86;0;0
+230703959;H. \u00c7alhano\u011flu;Milan;753.93;0;0
+230703960;Suso;Milan;758.77;0;0
+230703964;R. Rodr\u00edguez;Milan;765.45;0;0
+230703987;K. Strootman;Roma;766.64;0;0
+230703988;K. Manolas;Roma;768.74;0;0
+230703967;A. Romagnoli;Milan;770.79;0;0
+230703968;A. Romagnoli;Milan;773.08;0;0
+230703969;Suso;Milan;775.31;0;0
+230703971;F. Kessi\u00e9;Milan;779.52;0;0
+230703972;D. Calabria;Milan;782.13;0;0
+230703973;L. Biglia;Milan;785.01;0;0
+230703974;F. Kessi\u00e9;Milan;788.44;0;0
+230703999;C. \u00dcnder;Roma;800.29;0;0
+230704000;R. Nainggolan;Roma;802.9;0;0
+230704001;D. Perotti;Roma;808.15;0;0
+230704006;K. Manolas;Roma;850.29;0;0
+230703993;R. Rodr\u00edguez;Milan;856.61;0;0
+230704008;D. Perotti;Roma;859.29;0;0
+230704010;R. Nainggolan;Roma;864.47;0;0
+230704011;D. Perotti;Roma;867.76;0;0
+230704012;K. Strootman;Roma;870.93;0;0
+230704013;K. Manolas;Roma;873.76;0;0
+230704014;F. Fazio;Roma;875.65;0;0
+230704015;D. Perotti;Roma;879.37;0;0
+230704016;F. Fazio;Roma;882.52;0;0
+230704017;K. Manolas;Roma;885.82;0;0
+230704020;L. Bonucci;Milan;911.81;0;0
+230704022;Suso;Milan;916.42;0;0
+230704025;D. Calabria;Milan;917.68;0;0
+230704026;F. Kessi\u00e9;Milan;919.55;0;0
+230704027;R. Nainggolan;Roma;921.65;0;0
+230704029;L. Biglia;Milan;926.88;0;0
+230704033;Bruno Peres;Roma;933.48;0;0
+230704034;L. Pellegrini;Roma;936.09;0;0
+230704036;C. \u00dcnder;Roma;938.41;0;0
+230704037;K. Strootman;Roma;939.77;0;0
+230704040;D. Perotti;Roma;944.67;0;0
+230704041;A. Kolarov;Roma;948.03;0;0
+230704042;K. Strootman;Roma;950.4;0;0
+230704044;F. Fazio;Roma;953.01;0;0
+230704048;Bruno Peres;Roma;963.85;0;0
+230704043;L. Biglia;Milan;965.66;0;0
+230704047;G. Bonaventura;Milan;968.87;0;0
+230704049;P. Cutrone;Milan;976.46;0;0
+230704055;Bruno Peres;Roma;980.04;0;0
+230704058;P. Schick;Roma;985.52;0;0
+230704059;R. Nainggolan;Roma;987.46;0;0
+230704062;A. Kolarov;Roma;990.07;0;0
+230704063;R. Nainggolan;Roma;993.03;0;0
+230704064;K. Strootman;Roma;997.05;0;0
+230704070;D. Perotti;Roma;1003.95;0;0
+230704067;R. Rodr\u00edguez;Milan;1011.25;0;0
+230704071;G. Bonaventura;Milan;1012.19;0;0
+230704069;R. Rodr\u00edguez;Milan;1012.9;0;0
+230704073;L. Pellegrini;Roma;1014.81;0;0
+230704077;K. Manolas;Roma;1020.95;0;0
+230704078;K. Strootman;Roma;1022.28;0;0
+230704079;K. Manolas;Roma;1023.38;0;0
+230704080;F. Fazio;Roma;1026.85;0;0
+230704082;D. Perotti;Roma;1029.19;0;0
+230704083;A. Kolarov;Roma;1031.58;0;0
+230704086;L. Biglia;Milan;1038.75;0;0
+230704088;D. Calabria;Milan;1041.51;0;0
+230704089;L. Biglia;Milan;1044.31;0;0
+230704096;L. Pellegrini;Roma;1053.3;0;0
+230704097;F. Kessi\u00e9;Milan;1107.09;0;0
+230704099;Alisson;Roma;1112.55;0;0
+230704101;K. Manolas;Roma;1115.4;0;0
+230704102;Bruno Peres;Roma;1118.89;0;0
+230704103;F. Fazio;Roma;1122.49;0;0
+230704104;A. Kolarov;Roma;1126.24;0;0
+230704105;F. Fazio;Roma;1128.92;0;0
+230704106;K. Manolas;Roma;1133.17;0;0
+230704107;Bruno Peres;Roma;1135.07;0;0
+230704109;K. Strootman;Roma;1138.86;0;0
+230704110;Alisson;Roma;1141.5;0;0
+230704111;K. Strootman;Roma;1146.17;0;0
+230704098;G. Donnarumma;Milan;1154.44;0;0
+230704100;D. Calabria;Milan;1161.16;0;0
+230704114;A. Kolarov;Roma;1164.75;0;0
+230704115;K. Manolas;Roma;1167.69;0;0
+230704117;K. Strootman;Roma;1168.76;0;0
+230704119;E. D\u017eeko;Roma;1173.27;0;0
+230704108;L. Bonucci;Milan;1175.67;0;0
+230704127;F. Fazio;Roma;1211.21;0;0
+230704129;D. Perotti;Roma;1212.44;0;0
+230704131;F. Fazio;Roma;1214.69;0;0
+230704132;D. Perotti;Roma;1217.61;0;0
+230704133;F. Fazio;Roma;1219.58;0;0
+230704134;K. Manolas;Roma;1224.29;0;0
+230704135;K. Strootman;Roma;1225.84;0;0
+230704136;K. Manolas;Roma;1227.58;0;0
+230704140;Bruno Peres;Roma;1238.92;0;0
+230704141;K. Strootman;Roma;1240.08;0;0
+230704142;E. D\u017eeko;Roma;1242.31;0;0
+230704144;C. \u00dcnder;Roma;1246.79;0;0
+230704145;R. Rodr\u00edguez;Milan;1292.15;0;0
+230704146;L. Biglia;Milan;1293.38;0;0
+230704149;L. Biglia;Milan;1298.81;0;0
+230704151;H. \u00c7alhano\u011flu;Milan;1301.95;0;0
+230704153;D. Calabria;Milan;1306.3;0;0
+230704155;Suso;Milan;1307.38;0;0
+230704157;F. Kessi\u00e9;Milan;1309.55;0;0
+230704167;L. Bonucci;Milan;1337.46;0;0
+230704172;Suso;Milan;1358.43;0;0
+230704173;L. Biglia;Milan;1361.42;0;0
+230704174;R. Rodr\u00edguez;Milan;1365.95;0;0
+230704176;L. Biglia;Milan;1367.39;0;0
+230704177;G. Bonaventura;Milan;1372.36;0;0
+230704178;R. Rodr\u00edguez;Milan;1374.78;0;0
+230704179;G. Bonaventura;Milan;1376.48;0;0
+230704180;A. Romagnoli;Milan;1379.34;0;0
+230704181;G. Donnarumma;Milan;1384.75;0;0
+230704182;H. \u00c7alhano\u011flu;Milan;1389.25;0;0
+230704184;G. Bonaventura;Milan;1391.12;0;0
+230704183;Alisson;Roma;1395.42;0;0
+230704185;K. Strootman;Roma;1398.29;0;0
+230704186;F. Kessi\u00e9;Milan;1399.77;0;0
+230704187;L. Biglia;Milan;1399.77;0;0
+230704188;G. Bonaventura;Milan;1401.99;0;0
+230704189;H. \u00c7alhano\u011flu;Milan;1403.5;0;0
+230704192;F. Kessi\u00e9;Milan;1408.14;0;0
+230704193;D. Calabria;Milan;1411.12;0;0
+230704194;Suso;Milan;1413.62;0;0
+230704196;L. Biglia;Milan;1415.89;0;0
+230704198;G. Bonaventura;Milan;1422.31;0;0
+230704199;L. Biglia;Milan;1425.31;0;0
+230704201;L. Bonucci;Milan;1427.34;0;0
+230704205;N. Kalini\u0107;Milan;1431.15;0;0
+230704207;H. \u00c7alhano\u011flu;Milan;1436.63;0;0
+230704197;E. D\u017eeko;Roma;1456.25;0;0
+230704212;L. Bonucci;Milan;1457.76;0;0
+230704214;F. Kessi\u00e9;Milan;1462.71;0;0
+230704202;K. Manolas;Roma;1467.4;0;0
+230704226;G. Bonaventura;Milan;1471.48;0;0
+230704231;H. \u00c7alhano\u011flu;Milan;1477.72;0;0
+230704208;L. Pellegrini;Roma;1479.16;0;0
+230704210;C. \u00dcnder;Roma;1482.41;0;0
+230704211;Bruno Peres;Roma;1485.31;0;0
+230704213;Alisson;Roma;1488.85;0;0
+230704236;L. Biglia;Milan;1491.68;0;0
+230704222;D. Perotti;Roma;1503.7;0;0
+230704223;A. Kolarov;Roma;1506.44;0;0
+230704224;Alisson;Roma;1509.07;0;0
+230704227;K. Manolas;Roma;1514.73;0;0
+230704229;Bruno Peres;Roma;1519.39;0;0
+230704230;L. Pellegrini;Roma;1520.83;0;0
+230704232;Bruno Peres;Roma;1524.09;0;0
+230704252;F. Kessi\u00e9;Milan;1529.03;0;0
+230704254;N. Kalini\u0107;Milan;1532.28;0;0
+230704241;Alisson;Roma;1541.29;0;0
+230704243;K. Manolas;Roma;1545.27;0;0
+230704245;L. Pellegrini;Roma;1547.77;0;0
+230704246;K. Manolas;Roma;1551.26;0;0
+230704247;L. Pellegrini;Roma;1552.7;0;0
+230704248;F. Fazio;Roma;1556.19;0;0
+230704251;A. Kolarov;Roma;1562.06;0;0
+230704261;K. Strootman;Roma;1574.0;0;0
+230704262;Alisson;Roma;1576.81;0;0
+230704263;K. Manolas;Roma;1583.8;0;0
+230704265;D. Perotti;Roma;1590.39;0;0
+230704267;K. Manolas;Roma;1595.25;0;0
+230704269;D. Perotti;Roma;1598.85;0;0
+230704272;P. Schick;Roma;1599.56;0;0
+230704270;G. Bonaventura;Milan;1603.48;0;0
+230704273;H. \u00c7alhano\u011flu;Milan;1607.49;0;0
+230704284;G. Bonaventura;Milan;1643.64;0;0
+230704285;H. \u00c7alhano\u011flu;Milan;1644.67;0;0
+230704288;K. Manolas;Roma;1646.05;0;0
+230704286;L. Biglia;Milan;1648.68;0;0
+230704287;R. Rodr\u00edguez;Milan;1650.31;0;0
+230704289;D. Calabria;Milan;1653.26;0;0
+230704290;F. Kessi\u00e9;Milan;1655.68;0;0
+230704294;Suso;Milan;1657.96;0;0
+230704298;Suso;Milan;1686.36;0;0
+230704300;D. Calabria;Milan;1688.82;0;0
+230704304;N. Kalini\u0107;Milan;1691.46;0;0
+230704299;P. Schick;Roma;1770.59;0;0
+230704301;K. Strootman;Roma;1776.44;0;0
+230704314;A. Romagnoli;Milan;1778.84;0;0
+230704316;H. \u00c7alhano\u011flu;Milan;1780.95;0;0
+230704318;R. Rodr\u00edguez;Milan;1782.49;0;0
+230704306;F. Fazio;Roma;1788.88;0;0
+230704326;L. Biglia;Milan;1791.85;0;0
+230704327;D. Calabria;Milan;1795.23;0;0
+230704330;H. \u00c7alhano\u011flu;Milan;1798.47;0;0
+230704337;N. Kalini\u0107;Milan;1804.69;0;0
+230704346;R. Rodr\u00edguez;Milan;1812.31;0;0
+230704350;F. Kessi\u00e9;Milan;1814.81;0;0
+230704354;Suso;Milan;1821.28;0;0
+230704356;F. Kessi\u00e9;Milan;1823.03;0;0
+230704360;Suso;Milan;1828.02;0;0
+230704317;L. Pellegrini;Roma;1847.46;0;0
+230704322;P. Schick;Roma;1849.9;0;0
+230704370;L. Biglia;Milan;1855.36;0;0
+230704371;H. \u00c7alhano\u011flu;Milan;1857.33;0;0
+230704372;L. Biglia;Milan;1857.57;0;0
+230704373;R. Rodr\u00edguez;Milan;1859.99;0;0
+230704375;L. Biglia;Milan;1863.03;0;0
+230704376;L. Bonucci;Milan;1866.26;0;0
+230704329;F. Fazio;Roma;1875.52;0;0
+230704331;K. Strootman;Roma;1878.24;0;0
+230704332;Bruno Peres;Roma;1883.87;0;0
+230704334;K. Manolas;Roma;1887.39;0;0
+230704335;F. Fazio;Roma;1892.58;0;0
+230704336;K. Strootman;Roma;1895.46;0;0
+230704338;P. Schick;Roma;1896.62;0;0
+230704340;K. Strootman;Roma;1908.91;0;0
+230704341;E. D\u017eeko;Roma;1910.07;0;0
+230704342;F. Fazio;Roma;1918.59;0;0
+230704343;K. Strootman;Roma;1920.11;0;0
+230704345;D. Perotti;Roma;1922.31;0;0
+230704347;K. Manolas;Roma;1929.05;0;0
+230704348;D. Perotti;Roma;1930.46;0;0
+230704392;G. Bonaventura;Milan;1935.04;0;0
+230704351;K. Strootman;Roma;1938.16;0;0
+230704365;K. Manolas;Roma;2028.76;0;0
+230704418;H. \u00c7alhano\u011flu;Milan;2030.64;0;0
+230704379;K. Strootman;Roma;2056.1;0;0
+230704380;A. Kolarov;Roma;2058.71;0;0
+230704381;K. Strootman;Roma;2060.09;0;0
+230704382;Gerson;Roma;2062.57;0;0
+230704383;K. Manolas;Roma;2065.91;0;0
+230704384;F. Fazio;Roma;2068.13;0;0
+230704385;K. Strootman;Roma;2071.44;0;0
+230704386;A. Kolarov;Roma;2073.92;0;0
+230704388;A. Kolarov;Roma;2075.53;0;0
+230704389;K. Strootman;Roma;2078.52;0;0
+230704390;K. Strootman;Roma;2084.24;0;0
+230704429;L. Bonucci;Milan;2086.15;0;0
+230704396;K. Strootman;Roma;2089.34;0;0
+230704398;F. Fazio;Roma;2091.29;0;0
+230704399;D. Perotti;Roma;2094.96;0;0
+230704400;A. Kolarov;Roma;2096.9;0;0
+230704401;F. Fazio;Roma;2104.64;0;0
+230704403;D. Perotti;Roma;2110.57;0;0
+230704405;Bruno Peres;Roma;2134.12;0;0
+230704406;Alisson;Roma;2138.74;0;0
+230704407;Gerson;Roma;2141.74;0;0
+230704408;A. Kolarov;Roma;2147.01;0;0
+230704409;D. Perotti;Roma;2149.09;0;0
+230704410;A. Kolarov;Roma;2151.54;0;0
+230704463;A. Romagnoli;Milan;2155.62;0;0
+230704464;D. Calabria;Milan;2158.75;0;0
+230704465;L. Bonucci;Milan;2159.22;0;0
+230704413;Gerson;Roma;2162.57;0;0
+230704414;D. Perotti;Roma;2163.77;0;0
+230704424;Bruno Peres;Roma;2240.22;0;0
+230704428;Gerson;Roma;2260.16;0;0
+230704511;F. Kessi\u00e9;Milan;2264.66;0;0
+230704430;A. Kolarov;Roma;2269.59;0;0
+230704432;K. Strootman;Roma;2270.24;0;0
+230704433;D. Perotti;Roma;2272.62;0;0
+230704434;A. Kolarov;Roma;2274.06;0;0
+230704435;F. Fazio;Roma;2274.94;0;0
+230704437;Alisson;Roma;2277.4;0;0
+230704438;K. Manolas;Roma;2280.04;0;0
+230704440;F. Fazio;Roma;2283.77;0;0
+230704441;A. Kolarov;Roma;2287.98;0;0
+230704442;K. Strootman;Roma;2293.86;0;0
+230704444;F. Fazio;Roma;2294.74;0;0
+230704448;A. Kolarov;Roma;2301.07;0;0
+230704449;Gerson;Roma;2303.9;0;0
+230704451;Bruno Peres;Roma;2310.06;0;0
+230704452;K. Strootman;Roma;2313.12;0;0
+230704538;G. Donnarumma;Milan;2332.06;0;0
+230704455;E. D\u017eeko;Roma;2350.85;0;0
+230704456;A. Kolarov;Roma;2358.41;0;0
+230704459;D. Perotti;Roma;2366.35;0;0
+230704460;A. Kolarov;Roma;2369.01;0;0
+230704461;K. Manolas;Roma;2372.83;0;0
+230704462;P. Schick;Roma;2375.75;0;0
+230704466;Bruno Peres;Roma;2377.78;0;0
+230704556;G. Bonaventura;Milan;2381.12;0;0
+230704557;R. Rodr\u00edguez;Milan;2382.96;0;0
+230704558;H. \u00c7alhano\u011flu;Milan;2384.62;0;0
+230704560;G. Bonaventura;Milan;2386.29;0;0
+230704469;K. Manolas;Roma;2389.21;0;0
+230704470;Alisson;Roma;2391.79;0;0
+230704472;K. Manolas;Roma;2395.56;0;0
+230704474;Gerson;Roma;2400.04;0;0
+230704475;G. Defrel;Roma;2402.31;0;0
+230704476;Gerson;Roma;2404.77;0;0
+230704477;D. Perotti;Roma;2408.71;0;0
+230704478;A. Kolarov;Roma;2411.41;0;0
+230704562;D. Calabria;Milan;2412.14;0;0
+230704563;F. Kessi\u00e9;Milan;2414.1;0;0
+230704569;F. Borini;Milan;2417.62;0;0
+230704479;Alisson;Roma;2420.79;0;0
+230704480;F. Fazio;Roma;2424.51;0;0
+230704481;Gerson;Roma;2427.24;0;0
+230704482;K. Manolas;Roma;2431.51;0;0
+230704483;Bruno Peres;Roma;2436.87;0;0
+230704484;P. Schick;Roma;2439.6;0;0
+230704486;E. D\u017eeko;Roma;2443.36;0;0
+230704487;Bruno Peres;Roma;2449.2;0;0
+230704495;Bruno Peres;Roma;2490.21;0;0
+230704496;Alisson;Roma;2492.06;0;0
+230704499;F. Fazio;Roma;2497.26;0;0
+230704500;K. Strootman;Roma;2499.58;0;0
+230704502;D. Perotti;Roma;2501.44;0;0
+230704505;A. Kolarov;Roma;2506.35;0;0
+230704506;K. Strootman;Roma;2509.71;0;0
+230704508;F. Fazio;Roma;2514.66;0;0
+230704509;K. Strootman;Roma;2517.19;0;0
+230704514;D. Perotti;Roma;2525.16;0;0
+230704613;H. \u00c7alhano\u011flu;Milan;2529.52;0;0
+230704518;K. Manolas;Roma;2535.9;0;0
+230704519;F. Fazio;Roma;2538.51;0;0
+230704523;Alisson;Roma;2584.88;0;0
+230704524;F. Fazio;Roma;2587.63;0;0
+230704525;A. Kolarov;Roma;2591.26;0;0
+230704526;P. Schick;Roma;2593.16;0;0
+230704528;E. D\u017eeko;Roma;2598.34;0;0
+230704529;D. Perotti;Roma;2599.69;0;0
+230704530;A. Kolarov;Roma;2603.12;0;0
+230704531;F. Fazio;Roma;2606.45;0;0
+230704532;Gerson;Roma;2609.35;0;0
+230704533;D. Perotti;Roma;2612.77;0;0
+230704619;G. Bonaventura;Milan;2614.29;0;0
+230704620;F. Kessi\u00e9;Milan;2616.5;0;0
+230704622;F. Borini;Milan;2619.71;0;0
+230704624;N. Kalini\u0107;Milan;2622.0;0;0
+230704625;F. Kessi\u00e9;Milan;2623.21;0;0
+230704542;Bruno Peres;Roma;2663.43;0;0
+230704628;R. Montolivo;Milan;2666.84;0;0
+230704629;H. \u00c7alhano\u011flu;Milan;2667.86;0;0
+230704634;R. Montolivo;Milan;2685.45;0;0
+230704550;F. Fazio;Roma;2702.26;0;0
+230704638;L. Bonucci;Milan;2703.87;0;0
+230704639;D. Calabria;Milan;2707.29;0;0
+230704640;N. Kalini\u0107;Milan;2708.55;0;0
+230704642;H. \u00c7alhano\u011flu;Milan;2709.64;0;0
+230704645;F. Borini;Milan;2739.19;0;0
+230704646;R. Montolivo;Milan;2741.05;0;0
+230704647;L. Biglia;Milan;2742.1;0;0
+230704564;K. Manolas;Roma;2765.17;0;0
+230704653;R. Montolivo;Milan;2775.77;0;0
+230704655;H. \u00c7alhano\u011flu;Milan;2777.53;0;0
+230704574;K. Strootman;Roma;2787.72;0;0
+230704661;D. Calabria;Milan;2799.64;0;0
+230704579;Gerson;Roma;2804.43;0;0
+230704581;Bruno Peres;Roma;2810.49;0;0
+230704583;E. D\u017eeko;Roma;2817.76;0;0
+230704585;A. Kolarov;Roma;2820.07;0;0
+230704664;F. Kessi\u00e9;Milan;2823.06;0;0
+230704586;K. Manolas;Roma;2829.06;0;0
+230704587;K. Strootman;Roma;2835.01;0;0
+230704588;D. Perotti;Roma;2836.51;0;0
+230704589;A. Kolarov;Roma;2837.83;0;0
+230704590;Gerson;Roma;2865.3;0;0
+230704592;Gerson;Roma;2868.68;0;0
+230704593;Bruno Peres;Roma;2870.13;0;0
+230704594;F. Fazio;Roma;2874.77;0;0
+230704595;A. Kolarov;Roma;2877.44;0;0
+230704599;D. Perotti;Roma;2883.33;0;0
+230704603;K. Strootman;Roma;2894.73;0;0
+230704604;D. Perotti;Roma;2894.95;0;0
+230704605;A. Kolarov;Roma;2898.46;0;0
